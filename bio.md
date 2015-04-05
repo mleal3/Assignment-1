@@ -12,3 +12,6 @@ Programming Background:
 
 	My favorite project was the Final Project for CS161 because it
 	gave me a huge sense of accomplishment.
+
+Alternate Bio
+	I am a secret agent
