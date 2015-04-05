@@ -8,3 +8,6 @@ Programming Background:
 	I only have the programming background that I have attained
 	since joining this post-bacc program. Some of the material is 
 	very hard to keep up with.
+
+	My favorite project was the Final Project for CS161 because it
+	gave me a huge sense of accomplishment.
