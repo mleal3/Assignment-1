@@ -12,3 +12,7 @@ Programming Background:
 
 	My favorite project was the Final Project for CS161 because it
 	gave me a huge sense of accomplishment.
+
+	Time constraints have been the biggest obstacle
+	to overcome. Balancing a full career and two
+	small children is sometimes overwhelming.
